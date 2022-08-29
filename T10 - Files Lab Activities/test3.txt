@@ -1,0 +1,3 @@
+Python is a good language
+Studying Python is interesting
+So I will study it again
